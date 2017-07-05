@@ -7,7 +7,7 @@ In order to be run a successful cabin rental, an online web presence is a must. 
 
 The goal of this website isn't to make money. I did not charge the cabins to be on it. I envisioned the website having only the minimum number of ads to pay for server costs. I wanted a central location where people could easily search, filter based on amenities, and find the website/contact information for the locally owned cabins in the area. I also wanted to make sure all of the money went to the owners, giving them just payment for their hard work and helping the local economy. Unfortunately, I never received responses from the local owners, so I ended up only having my parents' cabins on the website. After multiple unsuccessful attempts, I decided to give up and take down the website. I still believe that this website has the potential to greatly help the area. Perhaps the time just wasn't right. I still have the domain (cabinsdirect.org), but with college and other commitments, I unfortunately do not have the time to continue to pursue this.
 
-If you have any questions about anything, please send an email to justin (AT) austin (DOT) ky.
+If you have any questions about anything, please send an email to justinaustin42 (AT) gmail (DOT) com.
 
 ## Website Details
 This website is built from the grayscale theme from StartBootstrap. Information about the theme can be found [here](https://startbootstrap.com/template-overviews/grayscale/). The theme is based on the [Bootstrap framework](https://getbootstrap.com/). The [cabins](cabins/index.html) page contains some AngularJS in order to dynamically filter the cabins based on the amenities checklist.
